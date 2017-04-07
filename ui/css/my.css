@@ -1,0 +1,27 @@
+.button-title {
+  top: 10%;
+  padding-left: 30px;
+}
+
+.button-image {
+  padding-left: 20px;
+}
+
+.buttons {
+  padding-left: 30px;
+  font-size: 100px;
+}
+
+.button-score {
+  padding-left: 0px;
+  font-size: 100px;
+}
+
+.button-position {
+  padding-left: 30px;
+  font-size: 50px;
+}
+
+.question {
+	font-size: 24px;
+}
